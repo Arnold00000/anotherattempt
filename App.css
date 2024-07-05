@@ -1,0 +1,261 @@
+/* App.css */
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  /* Light blue background */
+  color: #333;
+  /* Dark text color */
+}
+
+.App {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.navbar {
+  background-color: #0072ff;
+  /* Blue navbar background */
+  color: #fff;
+  /* White text color */
+  padding: 1rem;
+  margin-bottom: 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin-right: 20px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  /* Light blue background */
+  color: #333;
+  /* Dark text color */
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  /* Gradient background */
+  color: #fff;
+  /* White text color */
+  text-align: center;
+  padding: 20px;
+}
+
+.main-title {
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 1.2em;
+  margin-bottom: 40px;
+  max-width: 600px;
+}
+
+.user-button {
+  background-color: #ff9800;
+  /* Orange button */
+  border: none;
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+.user-button:hover {
+  background-color: #e68900;
+  /* Darker orange on hover */
+}
+
+.admin-form {
+  background-color: #fff;
+  /* White background */
+  color: #333;
+  /* Dark text color */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow */
+}
+
+.admin-form h2 {
+  margin-bottom: 20px;
+}
+
+.admin-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.admin-form button {
+  background-color: #0072ff;
+  /* Blue button */
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.admin-form button:hover {
+  background-color: #005bb5;
+  /* Darker blue on hover */
+}
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* styles for the admin and user page */
+/* .App {
+  text-align: center;
+}
+
+.UserPage {
+  color: blue;
+}
+
+.AdminDashboard {
+  color: green;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.main-title {
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 1.2em;
+  margin-bottom: 40px;
+  max-width: 600px;
+}
+
+.user-button {
+  background-color: #ff9800;
+  border: none;
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+.user-button:hover {
+  background-color: #e68900;
+}
+
+.admin-form {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-form h2 {
+  margin-bottom: 20px;
+}
+
+.admin-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.admin-form button {
+  background-color: #0072ff;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.admin-form button:hover {
+  background-color: #005bb5;
+} */

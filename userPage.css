@@ -1,0 +1,253 @@
+/* UserPage.css */
+
+.user-page {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    /* Light blue background */
+    color: #333;
+    /* Dark text color */
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+}
+
+.user-page h2 {
+    color: #004080;
+    /* Dark blue heading */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-page form {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-page form input,
+.user-page form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.user-page form textarea {
+    resize: vertical;
+}
+
+.user-page form button {
+    padding: 10px 20px;
+    background-color: #ff9800;
+    /* Orange button */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.user-page form button:hover {
+    background-color: #e68900;
+    /* Darker orange on hover */
+}
+
+
+
+
+
+
+/* UserPage.css */
+
+/* .user-page {
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    color: #333;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-page h2 {
+    color: #004080;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-page form {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-page form input,
+.user-page form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.user-page form textarea {
+    resize: vertical;
+}
+
+.user-page form button {
+    padding: 10px 20px;
+    background-color: #004080;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.user-page form button:hover {
+    background-color: #0059b3;
+}
+ */
+
+
+
+
+
+/* userPage.css */
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#main-header {
+    background-color: #004080;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+#main-header h1 {
+    margin: 0;
+}
+
+#main-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #004080;
+    border: none;
+    border-radius: 15px;
+}
+
+.button:hover {
+    background-color: #0059b3;
+} */
+
+
+
+
+/* userPage.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#main-header {
+    background-color: #004080;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+#main-header h1 {
+    margin: 0;
+}
+
+#main-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #004080;
+    border: none;
+    border-radius: 15px;
+}
+
+.button:hover {
+    background-color: #0059b3;
+} */
